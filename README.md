@@ -6,7 +6,7 @@ This repository contains all external data files used by NJOY. It currently cont
 ## RIPL-3
 
 The following data from RIPL-3 is available:
-- Discrete Levels and Decay Data
+- Discrete Levels and Decay Data (version from February 23, 2023)
 
 Reference:
 
