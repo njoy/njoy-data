@@ -1,7 +1,20 @@
 # NJOY external data files
 
 This repository contains all external data files used by NJOY. It currently contains data files for the following:
+- the Atomic Mass Evaluation (AME) from 2020
 - the RIPL-3 database
+
+## AME2020
+
+Reference:
+
+W.J.Huang, M.Wang, F.G.Kondev, G.Audi and S.Naimi, "The Ame2020 atomic mass evaluation (I)", Chinese Physics C45, 030002, March 2021.
+
+M.Wang, W.J.Huang, F.G.Kondev, G.Audi and S.Naimi, "The Ame2020 atomic mass evaluation (II)", Chinese Physics C45, 030003, March 2021.
+
+License:
+
+CURRENTLY UNKNOWN, VERIFY LICENSE BEFORE PUSHING THIS REPO TO GITHUB.
 
 ## RIPL-3
 
