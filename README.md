@@ -25,6 +25,4 @@ Reference:
 
 R. Capote, M. Herman, P. Oblozinsky, P.G. Young, S. Goriely, T. Belgya, A.V. Ignatyuk, A.J. Koning, S. Hilaire, V.A. Plujko, M. Avrigeanu, O. Bersillon, M.B. Chadwick, T. Fukahori, Zhigang Ge, Yinlu Han, S. Kailas, J. Kopecky, V.M. Maslov, G. Reffo, M. Sin, E.Sh. Soukhovitskii, P. Talou, Nuclear Data Sheets - Volume 110, Issue 12, December 2009, Pages 3107-3214
 
-License:
-
-CURRENTLY UNKNOWN, VERIFY LICENSE BEFORE PUSHING THIS REPO TO GITHUB.
+License: [Creative Commons (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/)
