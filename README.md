@@ -38,3 +38,5 @@ License: [Creative Commons (CC-BY-4.0)](https://creativecommons.org/licenses/by/
 This repository provides a configuration file (`njoy.config`) to point to the above mentioned external
 data files for use in NJOY. The environmental variable `NJOY_DATAPATH` should be set to the location of
 this repository so that NJOY can locate the configuration file.
+
+For more information, see the [njoy](https://github.com/njoy/dryad) repository.
